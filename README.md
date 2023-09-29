@@ -4,6 +4,10 @@
 
 ## About this repository
 
+This repository is used to discuss global issues relating to the link23 sandbox, i.e., this organisation.
+If you want us to host your tool in this organisation, or have an idea for a new tool, then open an [issue](/issues).!
+If you have issues about a specific tool, please open your issue in the relevant repository.
+Unsure where to post an issue or ask a question? Open a [discussion](/discussions) or [join our Slack](https://link23.world/slack) and chat with one of our mentors (🧑‍🏫 next to their name) or leads (👋 next to their name).
 
 ## Licensing
 
