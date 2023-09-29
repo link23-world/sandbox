@@ -1,6 +1,6 @@
-# [Repository Name]
+# link23 sandbox
 
-[![All Contributors](https://img.shields.io/github/all-contributors/link23-world/<REPOSITORY-NAME>?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/link23-world/sandbox?color=ee8449&style=flat-square)](#contributors)
 
 ## About this repository
 
