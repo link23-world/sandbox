@@ -2,15 +2,15 @@
 
 link23 makes all of their materials publicly available under open source licenses.
 
-link23 branding, including logos, is made available under a [CC-BY 4.0 licence](https://creativecommons.org/licenses/by-nd/4.0/).
+link23 branding, including logos, is made available under a [CC BY-ND 4.0 licence](https://creativecommons.org/licenses/by-nd/4.0/).
 This means you cannot make any changes to our branding without explicit written permission from one of the link23 leads.
 You can use and share our branding as long as you make clear where you copied it from, and no use of our branding consitutes an endorsement from link23 or Genomics England.
 
 Software are made available under an [Apache 2.0 licence](https://www.apache.org/licenses/LICENSE-2.0).
 
-All other content is made available under a [CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
+All other content is made available under a [CC BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
 
-Apache 2.0 and CC-BY 4.0 permissive licences, which means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear if you have modified the original code.
+Apache 2.0 and CC BY 4.0 permissive licences, which means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear if you have modified the original code.
 
 We recommend reading [The Turing Way licensing chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html) to learn more about licensing.
 
