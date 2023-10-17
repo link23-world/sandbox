@@ -1,7 +1,5 @@
 # link23 sandbox
 
-[![All Contributors](https://img.shields.io/github/all-contributors/link23-world/sandbox?color=ee8449&style=flat-square)](#contributors)
-
 ## About this repository
 
 This repository is used to discuss global issues relating to the link23 sandbox, i.e., this organisation.
@@ -18,16 +16,3 @@ This means you **cannot make changes to link23 branding** but can adapt and redi
 ## Contributing to this repository
 
 See our [contribution guidelines](/CONTRIBUTING.md) for details about how you can contribute to this repository.
-
-## Contributors
-
-See our [contribution guidelines](/CONTRIBUTING.md) for details about how we credit our contributors.
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
