@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use any code or other content from this repository, please cite it as below."
-authors:
-- family-names: "link23"
-title: "link23 Sandbox"
-version: "0.0.1"
-doi: "[ZENODO DOI]"
-date-released: "2023-09-29"
-url: "https://github.com/link23-world/sandbox"
